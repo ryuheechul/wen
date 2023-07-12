@@ -4,6 +4,16 @@ A missing simple date/time widget for seniors.
 
 ## Screenshots
 
+English from Windows Tablet (Cropped) ![Screenshot 2023-07-12 144101](https://github.com/ryuheechul/wen/assets/2637709/138a9215-6e3b-4483-88a1-5dfc3b1dec22)
+
+Korean from iPad ![IMG_0185](https://github.com/ryuheechul/wen/assets/2637709/7da7f27e-1df9-4a37-aeb3-239b65e5ef27)
+
+French from iPhone ![image](https://github.com/ryuheechul/wen/assets/2637709/b488715d-a6db-4089-a7c8-163ae3d28572)
+
+Japanese from iPhone ![image](https://github.com/ryuheechul/wen/assets/2637709/156951d2-6d66-4544-ada3-d3fa60571dbb)
+
+Chinese from Android Tablet ![Screenshot_2023-07-12-15-20-41](https://github.com/ryuheechul/wen/assets/2637709/02803f66-49a1-4162-9a84-60a220424bc4)
+
 ## Why
 
 Some seniors struggle to keep up with what day/date/time it is right now.
